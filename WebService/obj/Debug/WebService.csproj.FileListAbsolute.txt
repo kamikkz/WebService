@@ -1,0 +1,7 @@
+C:\Users\jorge.suarez\source\proyecto\WebService\WebService\WebService\bin\WebService.dll.config
+C:\Users\jorge.suarez\source\proyecto\WebService\WebService\WebService\bin\WebService.dll
+C:\Users\jorge.suarez\source\proyecto\WebService\WebService\WebService\bin\WebService.pdb
+C:\Users\jorge.suarez\source\proyecto\WebService\WebService\WebService\obj\Debug\WebService.csprojAssemblyReference.cache
+C:\Users\jorge.suarez\source\proyecto\WebService\WebService\WebService\obj\Debug\WebService.csproj.CoreCompileInputs.cache
+C:\Users\jorge.suarez\source\proyecto\WebService\WebService\WebService\obj\Debug\WebService.dll
+C:\Users\jorge.suarez\source\proyecto\WebService\WebService\WebService\obj\Debug\WebService.pdb
